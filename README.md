@@ -9,7 +9,7 @@
 
 ## 命令
 
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/LocaleCN/master/LocaleCN.sh && bash LocaleCN.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/a981550334/LocaleCN/master/LocaleCN.sh && bash LocaleCN.sh
 
 ## 系统支持
 
